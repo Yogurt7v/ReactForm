@@ -1,5 +1,4 @@
 import "./App.css";
-import '@mantine/core/styles.css';
 import  Signin  from "./singIn";
 import  Signup  from "./singUp";
 

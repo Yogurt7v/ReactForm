@@ -37,7 +37,7 @@
   }
 }
 
-.form{
+.form {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -47,14 +47,14 @@
   margin: 0 auto;
   border: 1px solid #ccc;
   border-radius: 10px;
-  background-color: #f9f9f9
+  background-color: #f9f9f9;
 }
 
 .form__input {
   margin-bottom: 10px;
 }
 
-.form__input__radio{
+.form__input__radio {
   display: flex;
   gap: 10px;
   margin-bottom: 10px;
