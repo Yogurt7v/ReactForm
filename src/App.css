@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9
+}
+
+.form__input {
+  margin-bottom: 10px;
+}
+
+.form__input__radio{
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
